@@ -1,7 +1,6 @@
 #Issues for this version
 1. Failed to connect to the VESC: https://mit-racecar.github.io/2017/01/01/faq/#failed-to-connect-to-the-vesc
-
-3. 
+2. for VESC please check: http://vedder.se/2015/01/vesc-open-source-esc/
 
 
 ----------------------content below are forked----------------------------------------------------------------------------------

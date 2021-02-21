@@ -1,3 +1,10 @@
+#Issues for this version
+1. Failed to connect to the VESC: https://mit-racecar.github.io/2017/01/01/faq/#failed-to-connect-to-the-vesc
+
+3. 
+
+
+----------------------content below are forked----------------------------------------------------------------------------------
 # MuSHR VESC  
 ## (Derived from MIT VESC)
 
